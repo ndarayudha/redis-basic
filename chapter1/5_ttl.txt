@@ -1,0 +1,7 @@
+expire yofan 5
+ttl yofan
+get yofan
+setex yofan 10 "Yofan Niki"
+ttl yofan
+get yofan
+get yofan

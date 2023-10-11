@@ -1,0 +1,1 @@
+redis-cli -h localhost -p 6379 -n 0 --pipe < 8_pipeline.txt

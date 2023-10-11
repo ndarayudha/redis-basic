@@ -1,0 +1,7 @@
+mset yofan "100" niki "200" andara "300"
+mget yofan niki andara
+
+flushdb
+
+mget yofan niki andara
+

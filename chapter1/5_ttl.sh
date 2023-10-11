@@ -1,0 +1,1 @@
+cat ./5_ttl.txt | redis-cli -h localhost -p 6379

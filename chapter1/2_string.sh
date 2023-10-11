@@ -1,0 +1,1 @@
+cat ./2_string.txt | redis-cli -h localhost -p 6379

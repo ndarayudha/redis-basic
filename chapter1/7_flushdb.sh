@@ -1,0 +1,1 @@
+cat ./7_flushdb.txt | redis-cli -h localhost -p 6379

@@ -1,0 +1,1 @@
+cat ./4_mset.txt | redis-cli -h localhost -p 6379

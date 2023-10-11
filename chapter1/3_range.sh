@@ -1,0 +1,1 @@
+cat ./3_range.txt | redis-cli -h localhost -p 6379

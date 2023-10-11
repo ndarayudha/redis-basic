@@ -1,0 +1,1 @@
+cat ./database.txt | redis-cli -h localhost -p 6379

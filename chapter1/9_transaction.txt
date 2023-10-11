@@ -1,0 +1,6 @@
+multi
+set apple "apple"
+set samsung "samsung"
+set xiaomi "xiaomi"
+exec
+mget apple samsung xiaomi

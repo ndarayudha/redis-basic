@@ -1,0 +1,5 @@
+set yofan "Yofan Niki"
+get yofan
+setrange yofan 6 "Andara"
+get yofan
+getrange yofan 6 20

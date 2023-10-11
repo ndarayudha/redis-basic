@@ -1,0 +1,16 @@
+incr counter
+get counter
+incr counter
+incr counter
+incr counter
+incr counter
+incr counter
+decr counter
+get counter
+incrby counter 5
+incrby counter 5
+incrby counter 5
+incrby counter 5
+get counter
+decrby counter 4
+get counter

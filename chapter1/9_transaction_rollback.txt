@@ -1,0 +1,6 @@
+multi
+set satu "satu"
+set dua "dua"
+set tiga "tiga"
+discard
+mget satu dua tiga

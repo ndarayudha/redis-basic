@@ -1,0 +1,9 @@
+set test "ini isi test"
+get test
+exists test
+append test "add more data"
+get test
+keys *
+keys test*
+del test
+get test

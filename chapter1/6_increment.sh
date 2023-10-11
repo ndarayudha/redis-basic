@@ -1,0 +1,1 @@
+cat ./6_increment.txt | redis-cli -h localhost -p 6379
